@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+/.quarto/
+/.github/
+/_site/
+/_freeze/
+Icon?
+mnist_train.csv
+/data/clustering-datasets/
+/lwface-csv/
+data/lwface-csv
+data/lwface-csv.zip
