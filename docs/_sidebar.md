@@ -3,9 +3,16 @@
 * [Home](/)
 * [Guide](guide.md)
 
+* Julia
+  * [StrutTypes.jl](./content/StrutTypes.jl.md)
+  * [Arrays](./content/Arrays.md)
+  
+
 * Statistics
   
   * [StatsModels](./content/StatsModels.md)
+  * [GaussianMixture](./content/GaussianMixture.md)
+  * [StateSpaceModel](./content/StateSpaceModel.md)
 * Bayes
   * [MCMCChains.jl](./content//Bayes/MCMCChains.jl.md)
   * [bayesian-stat-resources](./content/bayesian-stat-resources.md)
@@ -22,6 +29,7 @@
   * [MLJ](./content/mlj.md)
   * [CatBoost.jl](./content/mlj/CatBoost.jl.md)
   * [CategoricalDistributions.jl](./content/mlj/CategoricalDistributions.jl.md)
+  * [NearestNeighborModels](./content/NearestNeighborModels.md)
   * [MLFlowClient.jl](./content/mlj/MLFlowClient.jl.md)
   * [mlj-flow](./content/mlj/mlj-flow.md)
   * [MLJBase](./content/mlj/MLJBase.md)
@@ -45,9 +53,16 @@
   * [UnicodePlots](./content/UnicodePlots.md)
   * [TiderPlot](./content/TiderPlot.md)
 * Tidy 
+  * [CSV.jl](./content/CSV.jl.md)
   * [Tables.jl](./content/Tables.jl.md)
   * [PrettyTables.jl](./content/Tables.jl.md)
   * [TexTables](./content/TexTables.md)
+  * [TypedTables.jl](./content/TypedTables.jl.md)
+  * [JSONTables.jl](./content/JSONTables.jl.md)
+  * [RData.jl](./content/RData.jl.md)
+  * [FreqTables.jl](./content/FreqTables.jl.md)
+  * [DataFramesMeta](./content/DataFramesMeta.md)
+  * [Crayons.jl](./content/Crayons.md)
   * [pipe.jl](./content/pipe.jl.md)
   * [TidierData.jl](./content/TidierData.jl.md)
   * [TidierStrings](./content/TidierStrings.jl.md)
