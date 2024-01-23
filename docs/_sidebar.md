@@ -4,15 +4,20 @@
 * [Guide](guide.md)
 
 * Statistics
+  
+  * [StatsModels](./content/StatsModels.md)
+* Bayes
+  * [MCMCChains.jl](./content//Bayes/MCMCChains.jl.md)
   * [bayesian-stat-resources](./content/bayesian-stat-resources.md)
   * [dynamicPPL.jl](./content/dynamicPPL.jl.md)
   * [abstractgps](./content/abstractgps.md)
   * [MCMCChains.jl](./content/MCMCChains.jl.md)
   * [MCTS.jl](./content/MCTS.jl.md)
-  * [StatsModels](./content/StatsModels.md)
+  * [Stan.jl](./content/Bayes/stan.jl.md)
 * Machine Leaarning
   * [Recommendation.jl](./content/Recommendation.jl.md)
   * [scikit-learn](./content/scikit-learn.md)
+  * [TextAnalysis.jl](./content/TextAnalysis.jl.md)
 * MLJ 
   * [MLJ](./content/mlj.md)
   * [CatBoost.jl](./content/mlj/CatBoost.jl.md)
@@ -25,6 +30,8 @@
   * [StatisticalMeasures](./content/mlj/StatisticalMeasures.md)
   * [ScientificTypes.jl](./content/mlj/ScientificTypesjl.md)
   * [MLJEnsembles](./content/mlj/MLJEnsembles.jl.md)
+  * [MLJParticleSwarmOptimization.jl](./content/mlj/MLJParticleSwarmOptimization.jl.md)
+  * [TreeParzen.jl](./content/mlj/TreeParzen.jl.md)
   * [CondaPkg.jl](./content/CondaPkg.jl.md)
 * Mathematics
   * [calculus.jl](./content/calculus.jl.md)
@@ -35,5 +42,16 @@
   * [MakieThems.jl](./content/MakieThemes.jl.md)
   * [100daysofmakie](./content/100daysOfMakie.md)
   * [PairPlot](./content/PairPlots.jl.md)
+  * [UnicodePlots](./content/UnicodePlots.md)
+  * [TiderPlot](./content/TiderPlot.md)
 * Tidy 
   * [Tables.jl](./content/Tables.jl.md)
+  * [PrettyTables.jl](./content/Tables.jl.md)
+  * [TexTables](./content/TexTables.md)
+  * [pipe.jl](./content/pipe.jl.md)
+  * [TidierData.jl](./content/TidierData.jl.md)
+  * [TidierStrings](./content/TidierStrings.jl.md)
+  * [TidierText.jl](./content/TidierText.jl.md)
+  * [TidierVest.jl](./content/TidierVest.jl.md)
+  * [TidierCats.jl](./content/TiderCats.jl.md)
+  

@@ -1,0 +1,10 @@
+# Bayesian Data Analysis
+
+![bayesian machine learning1](images/bml1.jpg)
+![bayesian machine learning2](images/bml2.jpg)
+![bayesian machine learning3](images/bml3.jpg)
+
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
