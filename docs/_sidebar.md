@@ -6,10 +6,7 @@
 * Julia
   * [StrutTypes.jl](./content/StrutTypes.jl.md)
   * [Arrays](./content/Arrays.md)
-  
-
 * Statistics
-  
   * [StatsModels](./content/StatsModels.md)
   * [GaussianMixture](./content/GaussianMixture.md)
   * [StateSpaceModel](./content/StateSpaceModel.md)
@@ -52,6 +49,7 @@
   * [PairPlot](./content/PairPlots.jl.md)
   * [UnicodePlots](./content/UnicodePlots.md)
   * [TiderPlot](./content/TiderPlot.md)
+
 * Tidy 
   * [CSV.jl](./content/CSV.jl.md)
   * [Tables.jl](./content/Tables.jl.md)
@@ -69,4 +67,11 @@
   * [TidierText.jl](./content/TidierText.jl.md)
   * [TidierVest.jl](./content/TidierVest.jl.md)
   * [TidierCats.jl](./content/TiderCats.jl.md)
+  * [TidierDates.jl](./content/TidierDates.jl.md)
   
+* Awesome-MachineLearning
+  * [index](./content/awesome-ml/README.md)
+  * [blogs](./content/awesome-ml/blogs.md)
+  * [books](./content/awesome-ml/books.md)
+  * [events](./content/awesome-ml/events.md)
+  * [ml-curriculum](./content/awesome-ml/ml-curriculum.md)
